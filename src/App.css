@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+  font-family: 'Sora', sans-serif;
+ 
+  box-sizing: border-box;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
+h1
+  {
+
+    font-size: 3em;
+    text-align: center; /* 40px/16=2.5em */
+  }
+h4{
+   font-size: 6em;
+   text-align: center;
+}
+.right{
+ 
+  width :640px;
+  float:right;
+  right:0px;
+  position: absolute;
+  padding:10px;
+ 
+}
+
+
+
